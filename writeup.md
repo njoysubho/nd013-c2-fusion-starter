@@ -7,8 +7,13 @@ Vehicle features that are identifiable mostly are -
 * back of the vehicle. 
 * On zoom we might see tail light of the vehicle.
 
+The following image shows the presence of vehicle in point cloud map
+The vehicles are marked as red box. We can see vehicles entering the scene and moving away from scene becomes unclear. Vehicles in the center are much clearer.
+<img src="img/vehicle.png"/>
 
+The following image shows some visible feature of a car
 
+<img src="img/vehicle_feature.png"/>
 
 # Writeup: Track 3D-Objects Over Time
 
